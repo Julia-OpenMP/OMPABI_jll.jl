@@ -1,4 +1,4 @@
-version = "0.1.0+0"
+version = "0.2.0+0"
 name = "OMPABI_jll"
 uuid = "3215a6dd-3518-5385-95c6-e35c85970e8c"
 
@@ -10,6 +10,6 @@ CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 
 [compat]
 Libdl = "< 0.0.1, 1"
-julia = "1.10"
+julia = "1.13"
 JLLWrappers = "1.7.0"
 Artifacts = "< 0.0.1, 1"
